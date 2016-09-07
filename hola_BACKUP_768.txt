@@ -1,7 +1,0 @@
-
-<<<<<<< HEAD
-uno cuatro
-=======
-uno dos tres
->>>>>>> a8187a65774013c578e732b052af0c65956c5666
-que tal estas bien
